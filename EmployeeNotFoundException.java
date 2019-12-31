@@ -1,5 +1,3 @@
-//exception handling using throws
-
 package nikitha;
 
 public class EmployeeNotFoundException extends Exception {
